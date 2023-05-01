@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Arunachalam a.k.a Chalam (Sreeni)
+👀 I’m interested in Machine Learning and Deep Learning using Python
+🌱 I’m currently teaching python for image analysis ... https://www.youtube.com/digitalsreeni
+📫 How to reach me ...@arunachalamev on social media. On LinkedIn: https://www.linkedin.com/in/arunachalamev/ 
