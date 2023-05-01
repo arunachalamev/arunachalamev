@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Arunachalam a.k.a Chalam (Sreeni) 
+- 👋 Hi, I’m Arunachalam a.k.a Chalam
 - 👀 I’m interested in Machine Learning and Deep Learning using Python
 - 📫 How to reach me ...@arunachalamev on social media. On LinkedIn: https://www.linkedin.com/in/arunachalamev/ 
